@@ -1,0 +1,32 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: rgb(244, 203, 55);
+
+}
+.container{
+margin: 100px auto;
+text-align: center;
+}
+h1{
+    font-size: 4em;
+    color: rgb(249, 249, 243);
+
+}
+p{
+    font-size: 5em;
+  
+}
+button{
+    padding: 18px 10px;
+    font-size: 1.2em;
+    width: 180px;
+    margin: 10px;
+}
+button:hover{
+    cursor: pointer;
+    background-color: rgb(236, 137, 51);
+}
+#laps{
+    font-size: 40px;
+}
